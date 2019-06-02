@@ -1,16 +1,9 @@
 # translate_extension
 
-A new Flutter project.
+A new Flutter project for internation flutter hacktacton Enugu Nigeria
+ by Team Flutter-Beasts_042
 
-## Getting Started
+#Hack19
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+Translate Extension is an extension that can be added to snap chat or any open source chat app and facebook message ,
+so people can chat in different lanuages real time using google translate API
